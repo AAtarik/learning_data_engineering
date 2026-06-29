@@ -6,7 +6,9 @@ student={
 print(student)
 student["grade"]=["A,B,C"]
 print(student)
-print(student["age"])
+print(student["age"])                 #index nai, key use kre access krte hbe
 
-student["marks"]=[95,65,80]
+
+student["marks"]=[95,65,80]       #update
 print(student)
+

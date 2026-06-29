@@ -7,3 +7,7 @@ m={1,2,3,4}
 n={3,4,5,6,7}
 print(m | n)   #union
 print(m & n)   #intersection
+
+
+x= frozenset[(1,2,3,4,5,6)]       #change kra jbe nh
+

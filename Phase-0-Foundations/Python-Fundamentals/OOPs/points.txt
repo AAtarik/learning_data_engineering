@@ -1,0 +1,6 @@
+1- class is a blueprint, object real data holder 
+2- init runs automatically odject
+3- self-> current object
+4- instance unique per objects
+5- class -> shared
+6- mehtods inside class-> object data own

@@ -1,0 +1,2 @@
+1st- create a parent class (payment), then create a mathod (pay())
+Now i can use the mathod in other classes..(UPI)(CreditCard)
